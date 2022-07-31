@@ -51,22 +51,10 @@ O modelo foi salvo e integrado em uma interface simples feita na biblioteca Tkin
 
 #### Como executar o modelo
 
-Clone o projeto
+No terminal, instale as dependências
 
 ```bash
-  git clone https://link-to-project
-```
-
-Vá para a pasta do projeto
-
-```bash
-  cd teste-tecnico-americanas-sa
-```
-
-Instale as dependências
-
-```bash
-  pip install requirements.txt
+  pip install -r requirements.txt
 ```
 
 Execute o script
